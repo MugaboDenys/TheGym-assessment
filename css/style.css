@@ -10,5 +10,5 @@
     transition: 0.3s all ease-in-out;
 }
 .img-cont img:hover{
-    transform: scale(1.1);
+    transform: scale(1.05);
 }
